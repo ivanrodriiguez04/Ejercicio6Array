@@ -35,7 +35,11 @@ namespace Ejercicio6Array.Dtos
             this.NombreCompleto = nombreCliente+" "+apellidosCliente;
             this.EdadCliente = edadCliente;
         }
-        
+
+        public ClienteDto()
+        {
+        }
+
         //ToString
         override
         public string ToString()
