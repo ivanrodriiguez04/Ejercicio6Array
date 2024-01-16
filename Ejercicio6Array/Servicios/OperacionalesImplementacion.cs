@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,6 +28,8 @@ namespace Ejercicio6Array.Servicios
         private ClienteDto crearCliente() 
         { 
             ClienteDto cliente = new ClienteDto();
+            Console.WriteLine("Introduce el id del cliente: ");
+            cliente.IdCliente=Convert.ToInt64(Console.ReadLine());
             Console.WriteLine("Introduzca el nombre del cliente: ");
             cliente.NombreCliente = Console.ReadLine();
             Console.WriteLine("Introduzca los apellidos del cliente: ");
@@ -38,7 +41,31 @@ namespace Ejercicio6Array.Servicios
 
         public void ordenarListaCLiente(List<ClienteDto> listaClienteAtigua)
         {
-            throw new NotImplementedException();
+            int numClientes = listaClienteAtigua.Count;
+            if (numClientes>=3)
+            {
+                for (int fila = 0; fila < listaClienteAtigua.Count; fila++) 
+                {
+                    for (int columna = 0; columna < listaClienteAtigua.Count - 1 - fila; columna++) 
+                    {
+                        if (listaClienteAtigua[columna + 1].EdadCliente > listaClienteAtigua[columna].EdadCliente) 
+                        {
+                            ClienteDto aux = listaClienteAtigua[columna + 1];
+                            listaClienteAtigua[columna + 1] = listaClienteAtigua[columna];
+                            listaClienteAtigua[columna] = aux;
+                        }
+                    }
+                }
+
+                foreach (ClienteDto cliente in listaClienteAtigua) 
+                {
+                    Console.WriteLine(cliente.ToString());
+                }
+            }
+            else 
+            {
+                Console.WriteLine("[INFO] - No hay suficientes clientes para ordenar");
+            }
         }
     }
 }

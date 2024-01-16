@@ -32,7 +32,7 @@ namespace Ejercicio6Array.Dtos
             this.IdCliente = idCliente;
             this.NombreCliente = nombreCliente;
             this.ApellidosCliente = apellidosCliente;
-            this.NombreCompleto = nombreCliente+" "+apellidosCliente;
+            this.NombreCompleto = nombreCompleto;
             this.EdadCliente = edadCliente;
         }
 
@@ -44,7 +44,8 @@ namespace Ejercicio6Array.Dtos
         override
         public string ToString()
         {
-            string concatenacion = "Nombre completo: " + this.nombreCompleto + "\n" + "Edad: " + this.edadCliente;
+            nombreCompleto= nombreCliente+" "+apellidosCliente;
+            string concatenacion = nombreCompleto+" "+edadCliente;
             return concatenacion;
         }
 

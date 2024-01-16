@@ -13,3 +13,17 @@ C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio6Array\Ejercicio6
 C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.pdb
 C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.genruntimeconfig.cache
 C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\ref\Ejercicio6Array.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\bin\Debug\net6.0\Ejercicio6Array.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\bin\Debug\net6.0\Ejercicio6Array.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\bin\Debug\net6.0\Ejercicio6Array.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\bin\Debug\net6.0\Ejercicio6Array.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\bin\Debug\net6.0\Ejercicio6Array.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\refint\Ejercicio6Array.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\Ejercicio6Array.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosArray\Ejercicio6Array\Ejercicio6Array\obj\Debug\net6.0\ref\Ejercicio6Array.dll
